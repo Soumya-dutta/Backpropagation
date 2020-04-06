@@ -9,3 +9,5 @@ The backpropagation algorithm is one of the cornerstones of training neural netw
 - **ReLU** activation does not work well for unnormalized inputs
 
 Using a simple network of **2 hidden layers with 784 neurons** each, after training for **50 epochs**, a **training accuracy of 97.94%** could be achieved. **Validation accuracy was 96.20%**. On the **test set**, an **accuracy of 96.06%** was achieved.
+
+Details of working can be found at https://drive.google.com/drive/u/0/folders/1b0vA483dy9l9gNAZt8v8b2i2frjEQ3Os (**for my own reference**)
